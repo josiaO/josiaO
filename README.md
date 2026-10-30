@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋🏽 Josiah Mosses | Full Stack Developer
+#  Josiah Mosses | Full Stack Developer
 ### AI/ML Specialist | Tech Builder | Africa's Future Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josia-mosses-aa1b20322)
@@ -11,18 +11,18 @@
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a **full-stack developer** from Tanzania on a mission to **redefine African tech innovation**. I combine AI/ML expertise with practical software engineering to build solutions that matter.
 
-- 🧠 **Specialization**: Machine Learning, Deep Learning, Full-Stack Development
-- 🌍 **Based**: Tanzania | 🎯 **Focus**: African Tech Solutions
-- 💡 **Philosophy**: Technology as a weapon of change for the underprivileged
-- 🔥 **Vision**: Building East Africa's most advanced tech hub
+-  **Specialization**: Machine Learning, Deep Learning, Full-Stack Development
+-  **Based**: Tanzania |  **Focus**: African Tech Solutions
+-  **Philosophy**: Technology as a weapon of change for the underprivileged
+-  **Vision**: Building East Africa's most advanced tech hub
 
 ---
 
-## 📊 Developer Metrics
+## Developer Metrics
 
 <div align="center">
 
@@ -37,7 +37,7 @@ I'm a **full-stack developer** from Tanzania on a mission to **redefine African 
 
 ---
 
-## 💻 Technical Stack
+##  Technical Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -60,48 +60,48 @@ I'm a **full-stack developer** from Tanzania on a mission to **redefine African 
 
 ---
 
-## 🎯 What I Do
+##  What I Do
 
-### 🤖 Machine Learning & AI
+###  Machine Learning & AI
 - Develop production-ready ML models for real-world problems
 - Build and deploy deep learning solutions
 - Data analysis, visualization, and insights generation
 
-### 💻 Full-Stack Development
+###  Full-Stack Development
 - Responsive web applications with React & modern JavaScript
 - Scalable backend systems with Node.js & Python
 - Database design and optimization
 
-### 🔍 Data Science
+###  Data Science
 - Statistical analysis and predictive modeling
 - Feature engineering and data pipeline development
 - Insight extraction from complex datasets
 
 ---
 
-## 🤝 Let's Collaborate
+##  Let's Collaborate
 
 I'm actively looking for opportunities to:
-- 💼 **Collaborate** on innovative ML/AI projects
-- 🌐 **Connect** with developers, researchers & visionaries globally
-- 🌍 **Build** solutions addressing African challenges with global impact
-- 📚 **Mentor** aspiring developers in East Africa
+-  **Collaborate** on innovative ML/AI projects
+-  **Connect** with developers, researchers & visionaries globally
+-  **Build** solutions addressing African challenges with global impact
+-  **Mentor** aspiring developers in East Africa
 
 ---
 
-## 📫 Get In Touch
+##  Get In Touch
 
 <div align="center">
 
 **Email**: [josia.obeid@gmail.com](mailto:josia.obeid@gmail.com)
 
-**Let's build something extraordinary together** 🚀
+**Let's build something extraordinary together** 
 
 </div>
 
 ---
 
-## 💭 Philosophy
+##  Philosophy
 
 > *"He who awakens in the system is not its prisoner, He is its undoing."*
 
@@ -111,9 +111,9 @@ I'm actively looking for opportunities to:
 
 <div align="center">
 
-### 🌌 Shaping the Future of African Tech 🌍
+###  Shaping the Future of African Tech 
 
-⭐ If you find my work interesting, feel free to star my repositories!
+ If you find my work interesting, feel free to star my repositories!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=josiaO&color=blueviolet)
 
